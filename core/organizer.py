@@ -35,7 +35,7 @@ class FileOrganizer:
 		"""
 		Will start the organizing process,
 		"""
-		print("[...] Starting organizing process.")
+		print("[...] Starting organizing process...")
 
 		# We going to count how many files do we process
 		processed_count = 0
@@ -61,7 +61,7 @@ class FileOrganizer:
 
 		# Tell the user the organizing is success!
 		if processed_count:
-			print("[...] Organizing success.")
+			print(f"[...] Successfully organized {processed_count} files.")
 			return processed_count
 		
 		print("[xxx] Failed to organize the files")
