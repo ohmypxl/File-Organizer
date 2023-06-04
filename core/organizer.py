@@ -69,5 +69,5 @@ class FileOrganizer:
 
 # For testing purposes
 if __name__ == '__main__':
-	organizer = FileOrganizer(".")
+	organizer = FileOrganizer(".3gp")
 	organizer.start()
