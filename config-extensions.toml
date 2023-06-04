@@ -1,0 +1,68 @@
+# --------------------------------------
+# Extension config for File-Organizer
+# Version: 1.0
+# Author: @pxlrl
+# --------------------------------------
+
+Compressed = [
+	".zip",
+	".rar",
+	".xz",
+	".gz",
+	".7z",
+	".img",
+	".iso",
+	".tar",
+]
+
+Documents = [
+	".pdf",
+	".docx",
+	".xslx",
+	".csv",
+]
+
+Images = [
+	".apng",
+	".png",
+	".jpg",
+	".jpeg",
+	".gif",
+	".tif",
+	".webp",
+]
+
+Libraries = [
+	".so",
+	".dll",
+	".lib",
+]
+
+Music = [
+	".mp3",
+	".m4a",
+	".ogg",
+	".wav",
+	".flac",
+]
+
+Programs = [
+	"",
+	".exe",
+	".dmg",
+	".sh",
+]
+
+Texts = [
+	".txt",
+	".md",
+	".rst",
+]
+
+Videos = [
+	".mp4",
+	".mpeg4",
+	".mkv",
+	".3gp",
+	".mov",
+]
